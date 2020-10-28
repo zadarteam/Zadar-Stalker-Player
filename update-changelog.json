@@ -1,0 +1,10 @@
+{
+  "latestVersion": "1.20",
+  "latestVersionCode": "20",/** set this number to the minimum version the app is supposed to be in. If user do not have at least this version installed, they will see force update dialog.**/
+  "url": "https://play.google.com/store/apps/details?id=np.pro.zadarteam.iptv",
+  "releaseNotes": [
+    "- First evolution",
+    "- Second evolution",
+    "- Bug fixes"
+  ]
+}
